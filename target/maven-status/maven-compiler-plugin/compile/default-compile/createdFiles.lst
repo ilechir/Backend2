@@ -9,7 +9,6 @@ com\myPortfolio\IC\Entity\Experiencia.class
 com\myPortfolio\IC\Security\Repository\iUsuarioRepository.class
 com\myPortfolio\IC\Repository\IPersonaRepository.class
 com\myPortfolio\IC\Entity\Persona.class
-.netbeans_automatic_build
 com\myPortfolio\IC\Dto\dtoExperiencia.class
 com\myPortfolio\IC\Service\SEducacion.class
 com\myPortfolio\IC\Security\Repository\iRolRepository.class
